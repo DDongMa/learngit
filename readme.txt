@@ -6,4 +6,4 @@ my boss is stubit!
 
 Creating a new branch dev!
 
-feature branch is simple and quick !
+Creating a feature is simple and quick.
